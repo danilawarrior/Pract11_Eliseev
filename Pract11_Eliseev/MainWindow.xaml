@@ -32,6 +32,10 @@
                     Content="abba"
                     Click="abbaClick"/>
             </StackPanel>
+
+            <StackPanel>
+                <Button Click="aboutProgram" Content="О программе" Height="50" Margin="45"/>
+            </StackPanel>
         </Grid>
     </Grid>
 </Window>
